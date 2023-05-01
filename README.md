@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on tools to help 🧗‍♀️ get the best sends
-- 🌱 I’m currently learning LLM implementation and React
+- 🌱 I’m currently learning LLM implementation and ReactJS
 
 <!--
 **AaronPed/AaronPed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
