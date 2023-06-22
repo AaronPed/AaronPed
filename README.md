@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on tools to help 🧗‍♀️ get the best sends in my free time
 - 🌱 I’m currently learning LLM implementation and ReactJS
 
-## Heres some forbidden knowledge for you
+## Just FYI 😉
 ```math
 n^{th} \text{ prime} = 1 + \sum_{i=1}^{2^{n}}\left\lfloor\left(\frac{n}{\sum\limits_{j=1}^{i}\left\lfloor \left(\cos \pi \frac{(j-1)!+1}{j}\right)^2 \right\rfloor }\right)^{1/n}\right\rfloor
 ```
