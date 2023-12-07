@@ -7,8 +7,9 @@
   \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
   ```
                                                        
-- 🔭 I’m currently working on tools to help 🧗‍♀️ get the best sends in my free time
+- 🔭 I’m currently working on tools to help 🧗‍♀️ get the best sends
 - 🌱 I’m currently learning LLM implementation and ReactJS
+- 🐝 I'm working on SIR population models
 
 ## Just FYI 😉
 ```math
