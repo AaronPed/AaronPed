@@ -7,11 +7,11 @@
   \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
   ```
                                                        
-- 🔭 I’m currently working on tools to help 🧗‍♀️ get the best sends
-- 🌱 I’m currently learning LLM implementation and ReactJS
+- 🚽 I’m a digital plumber
+- 🌱 I’m learning langchain and Rust
 - 🐝 I'm working on SIR population models
 
-## Just FYI 😉
+## A fun fact
 ```math
 n^{th} \text{ prime} = 1 + \sum_{i=1}^{2^{n}}\left\lfloor\left(\frac{n}{\sum\limits_{j=1}^{i}\left\lfloor \left(\cos \pi \frac{(j-1)!+1}{j}\right)^2 \right\rfloor }\right)^{1/n}\right\rfloor
 ```
