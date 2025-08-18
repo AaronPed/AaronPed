@@ -8,8 +8,6 @@
   ```
                                                        
 - 🚽 I’m a digital plumber
-- 🌱 I’m learning langchain and Rust
-- 🐝 I'm working on SIR population models
 
 ## A fun fact
 ```math
