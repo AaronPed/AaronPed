@@ -1,15 +1,9 @@
-
-```
- __  __     ______     __         __         ______    
-/\ \_\ \   /\  ___\   /\ \       /\ \       /\  __ \   
-\ \  __ \  \ \  __\   \ \ \____  \ \ \____  \ \ \/\ \  
- \ \_\ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\ 
-  \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
-  ```
-                                                       
+FDE / Software engineer
+                                                
 - 🚽 I’m a digital plumber
 
-## A fun fact
+
+### fun fact
 ```math
 n^{th} \text{ prime} = 1 + \sum_{i=1}^{2^{n}}\left\lfloor\left(\frac{n}{\sum\limits_{j=1}^{i}\left\lfloor \left(\cos \pi \frac{(j-1)!+1}{j}\right)^2 \right\rfloor }\right)^{1/n}\right\rfloor
 ```
